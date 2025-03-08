@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wnLOQzWwFMdEP25g8TnJEmPXzsWyOnZGNdtRLRgC33k=",
+  "Source": "JwtExampleJsonWebToken",
+  "BasePath": "_content/JwtExampleJsonWebToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
